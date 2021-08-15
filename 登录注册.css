@@ -1,0 +1,110 @@
+.logo-re  {
+    width: 1200px;
+    height: 78px;
+    border-bottom: 2px solid #c81523;
+
+}
+.logo-re img {
+    margin-top: 18px;
+
+}
+.registereare {
+    height: 522px;
+    margin-top: 20px;
+    border: 1px solid #dcdcdc;
+    background-color: #ffffff;
+
+
+}
+
+.re_bt {
+    height: 42px;
+    line-height: 42px;
+    background-color: #ececec;
+
+}
+.re_bt h4 {
+    float: left;
+    margin-left: 10px;
+    font-size: 16px;
+    font-weight: 400;
+
+}
+.re_bt p {
+    float: right;
+    margin-right: 10px;
+    font-size: 14px;
+
+
+}
+form {
+    position: relative;
+    text-align: center;
+
+
+
+}
+input[id=new] {
+    /* position: absolute; */
+    /* left: 50%; */
+    /* margin-left: -600px; */
+    width: 242px;
+    height: 37px;
+    background-color: #ffffff;
+    border: 1px solid #dcdcdc;
+
+}
+form ul {
+    margin-top: 50px;
+
+}
+form ul li {
+    margin: 20px auto;
+
+}
+form ul li label {
+    display: inline-block;
+    width: 88px;
+    text-align: right;
+    background-color: pink;
+
+}
+form ul li:nth-child(2) span {
+    color: #39ba36;
+    padding:  5px 0;
+
+}
+form ul li:nth-child(2) span::before {
+    display: inline-block;
+    content: '';
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    background: url(../images/success.png) no-repeat;
+    padding: 0 2px;
+
+}
+.renz em {
+    padding: 0 10px;
+
+}
+.ruo {
+    background-color: #39ba36;
+
+}
+.zhong {
+    background-color: orange;
+
+}
+.qiang {
+    background-color: #c81523;
+
+}
+
+.btn input {
+    width: 200px;
+    height: 34px;
+    color: #ffffff;
+    background-color: #c81523;
+
+}
